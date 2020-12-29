@@ -13,7 +13,7 @@ EJS - I like to use react but for the simplictly for this project I used EJS.
 MiddleWares- 
 Express- For the server
 
-Body-Parser- For the form-submission and to out data into backend
+Body-Parser- For the form submission and to give data into backend
 
 Backend-
 Mongoose- This is a ODM
