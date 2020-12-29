@@ -18,4 +18,8 @@ Body-Parser- For the form submission and to give data into backend
 Backend-
 Mongoose- This is a ODM
 
-MongoDB Atlas- This is not a depenices but it is a service for database it is similar to NoSQL
+MongoDB Atlas- This is not a depenices but it is a service for database that I am using 
+
+# More dev tools 
+
+I use Robo 3T to vizulize my data for mongodb (is that only me). I also use mongodb charts
