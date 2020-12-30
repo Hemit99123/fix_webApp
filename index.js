@@ -4,7 +4,7 @@ const ejs = require("ejs")
 const PORT = 2000
 const mongoose = require("mongoose")
 const bodyParser = require("body-parser")
-mongoose.connect('mongodb+srv://hemit:12345@cluster0.wsvsp.mongodb.net/<dbname>?retryWrites=true&w=majority' , () => {
+mongoose.connect(mongodbURI , () => {
 function message(error) {
     if (error){
         console.log(error)
